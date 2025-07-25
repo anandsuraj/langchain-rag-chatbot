@@ -16,3 +16,9 @@ pydantic>=2.7.0
 ollama>=0.5.0
 python-dotenv>=1.0.0
 streamlit>=1.35.0
+
+
+#rag 
+bs4
+pypdf 
+faiss-cpu # vector database

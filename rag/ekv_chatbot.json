@@ -1,0 +1,179 @@
+[
+  {
+    "url": "https://ekaivakriti.com/",
+    "title": "Home",
+    "content": "EkaivaKriti offers AI‑powered solutions, web & mobile development, digital marketing, e‑commerce, and business automation. Based in Gurgaon, we serve ambitious brands worldwide to help them build, automate and grow.",
+    "metadata": {
+      "type": "homepage",
+      "keywords": [
+        "AI solutions",
+        "web development",
+        "digital marketing",
+        "e-commerce",
+        "business automation",
+        "Gurgaon"
+      ],
+      "last_updated": "2025-06-15",
+      "word_count": 50
+    }
+  },
+  {
+    "url": "https://ekaivakriti.com/about-us",
+    "title": "About Us",
+    "content": "EkaivaKriti (एकैवकृति, pronounced /ˈeh‑KAI‑va‑kree‑tee/) means “a unique creation” in Sanskrit. We’re a flexible team of innovators working across startups to enterprises in solar, healthcare, finance, e‑commerce and more. We focus on delivering real results—no fluff, just digital solutions that help your business shine.",
+    "metadata": {
+      "type": "about",
+      "keywords": [
+        "team",
+        "innovation",
+        "digital solutions",
+        "startups",
+        "enterprises",
+        "Sanskrit"
+      ],
+      "last_updated": "2025-06-10",
+      "word_count": 70
+    }
+  },
+  {
+    "url": "https://ekaivakriti.com/services",
+    "title": "Services Overview",
+    "content": "Our services include AI automation, digital marketing, website and app development, e‑commerce solutions, business process automation and tech consultancy.",
+    "metadata": {
+      "type": "services",
+      "keywords": [
+        "AI automation",
+        "digital marketing",
+        "web development",
+        "app development",
+        "e-commerce",
+        "consultancy"
+      ],
+      "last_updated": "2025-06-12",
+      "word_count": 30
+    }
+  },
+  {
+    "url": "https://ekaivakriti.com/services/ai-solutions",
+    "title": "AI Automation Solutions",
+    "content": "We design AI automation systems for businesses in healthcare, finance, e‑commerce, education, tourism, and more. Use cases include chatbots, workflow automation, and business process optimization to save 20+ hours per week and deliver measurable ROI.",
+    "metadata": {
+      "type": "services",
+      "subcategory": "AI Automation",
+      "keywords": [
+        "AI automation",
+        "chatbots",
+        "workflow automation",
+        "business optimization",
+        "ROI"
+      ],
+      "last_updated": "2025-06-20",
+      "word_count": 60
+    }
+  },
+  {
+    "url": "https://ekaivakriti.com/services/tech-consultancy",
+    "title": "Tech Consultancy & Strategy",
+    "content": "Our tech consultancy helps businesses with digital strategy, cloud and CTO services. We offer proven frameworks and actionable advice as a trusted partner in growth.",
+    "metadata": {
+      "type": "services",
+      "subcategory": "Consultancy",
+      "keywords": [
+        "tech consultancy",
+        "digital strategy",
+        "cloud services",
+        "CTO services",
+        "business growth"
+      ],
+      "last_updated": "2025-06-18",
+      "word_count": 40
+    }
+  },
+  {
+    "url": "https://ekaivakriti.com/services/website-design-development",
+    "title": "Website Design & Development",
+    "content": "We build professional, scalable websites across industries like banking, education, healthcare, travel and enterprise. Sites are responsive, fast-loading and aligned with business goals.",
+    "metadata": {
+      "type": "services",
+      "subcategory": "Web Development",
+      "keywords": [
+        "website design",
+        "web development",
+        "responsive design",
+        "fast-loading",
+        "business goals"
+      ],
+      "last_updated": "2025-06-15",
+      "word_count": 45
+    }
+  },
+  {
+    "url": "https://ekaivakriti.com/blog/ai-automation-monetization-use-cases",
+    "title": "AI Automation Monetization Guide",
+    "content": "A guide detailing AI automation use cases and strategies to boost growth, monetize processes, and optimize workflows for real business impact.",
+    "metadata": {
+      "type": "blog",
+      "topic": "AI Automation",
+      "keywords": [
+        "AI automation",
+        "monetization",
+        "business growth",
+        "workflow optimization"
+      ],
+      "last_updated": "2025-07-01",
+      "word_count": 35
+    }
+  },
+  {
+    "url": "https://ekaivakriti.com/portfolio",
+    "title": "Portfolio",
+    "content": "Explore our portfolio showcasing successful projects in AI automation, web development, and digital marketing for clients in healthcare, e-commerce, and finance. Highlights include a chatbot for a healthcare provider and an e-commerce platform with 30% sales growth.",
+    "metadata": {
+      "type": "portfolio",
+      "keywords": [
+        "portfolio",
+        "case studies",
+        "AI automation",
+        "web development",
+        "digital marketing"
+      ],
+      "last_updated": "2025-07-10",
+      "word_count": 55
+    }
+  },
+  {
+    "url": "https://ekaivakriti.com/contact",
+    "title": "Contact Us",
+    "content": "Get in touch with EkaivaKriti for your next project. Reach us via email, phone, or our online form to discuss AI solutions, web development, or consultancy needs.",
+    "metadata": {
+      "type": "contact",
+      "keywords": [
+        "contact",
+        "get in touch",
+        "AI solutions",
+        "web development",
+        "consultancy"
+      ],
+      "last_updated": "2025-06-05",
+      "word_count": 40
+    }
+  },
+  {
+    "url": "https://ekaivakriti.com/blog/digital-marketing-strategies-2025",
+    "title": "Digital Marketing Strategies for 2025",
+    "content": "Discover the latest digital marketing trends for 2025, including AI-driven campaigns, personalized content, and SEO strategies to boost online visibility and engagement.",
+    "metadata": {
+      "type": "blog",
+      "topic": "Digital Marketing",
+      "keywords": [
+        "digital marketing",
+        "AI campaigns",
+        "SEO",
+        "personalized content",
+        "2025 trends"
+      ],
+      "last_updated": "2025-07-15",
+      "word_count": 45
+    }
+  }
+]
