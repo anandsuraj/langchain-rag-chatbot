@@ -5,6 +5,7 @@ from langchain_core.prompts import ChatPromptTemplate
 # Import StrOutputParser for parsing string outputs from the model
 from langchain_core.output_parsers import StrOutputParser
 
+
 import os
 import streamlit as st
 from dotenv import load_dotenv

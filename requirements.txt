@@ -1,24 +1,18 @@
-# Core LangChain and UI libraries
-langchain
-langchain-core
-langchain-community
-streamlit
+# Core LangChain Libraries - Let pip resolve versions
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-openai>=0.2.0
+langchain-ollama>=0.3.0
 
-# For deploying as an API (as requested)
-langserve
+# LangServe and its dependencies
+langserve>=0.3.0
+fastapi>=0.110.0
+uvicorn>=0.30.0
+sse-starlette>=1.6.0
+pydantic>=2.7.0
 
-# LLM Integrations
-langchain_openai
-langchain-ollama
-
-# Direct client for Ollama API
-ollama
-
-# For managing environment variables
-python-dotenv
-
-# Additional libraries for web framework and server
-langserve
-fastapi
-uvicorn
-
+# Other utilities
+ollama>=0.5.0
+python-dotenv>=1.0.0
+streamlit>=1.35.0
