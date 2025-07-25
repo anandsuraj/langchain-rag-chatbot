@@ -15,9 +15,16 @@ os.environ["LANGCHAIN_TRACING_V2"] = "true"
 API_BASE_URL = os.getenv("API_BASE_URL", "http://localhost:8000")
 
 # Set up the Streamlit app
-st.set_page_config(page_title="LangServe Example API Client", page_icon=":robot_face:")
-st.title("LangServe Example API Client")
-st.write("This is a client for interacting with the LangServe Example API.")
+st.set_page_config(page_title="AI Content Generation Platform", page_icon="🤖")
+st.title("AI Content Generation Platform")
+st.markdown("""
+**Professional AI-Powered Writing Assistant**
+
+This enterprise-grade application leverages advanced language models to generate high-quality essays and poetry. 
+Built on LangChain architecture with OpenAI GPT-3.5-turbo and Ollama Llama2 integration for scalable content creation.
+
+*Ideal for content creators, educators, researchers, and businesses requiring automated writing solutions.*
+""")
 
 def get_openai_response(input_text):
     url = f"{API_BASE_URL}/essay/invoke"
