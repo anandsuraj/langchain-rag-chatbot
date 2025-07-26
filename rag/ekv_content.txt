@@ -1,0 +1,89 @@
+=== Home ===
+EkaivaKriti offers AI-powered solutions, web & mobile development, digital marketing, e-commerce, and business automation. Based in Gurgaon, we serve ambitious brands worldwide to help them build, automate and grow. :contentReference[oaicite:1]{index=1}
+
+=== About Us ===
+We’re a team of innovators, engineers, and creators building digital solutions that help your business shine. From startups to global enterprises across e-commerce, solar, healthcare, tech, and finance. Our talented team comes from Google, Microsoft, and leading startups. We combine innovation and craft to deliver exceptional outcomes — no fluff, just results that matter. :contentReference[oaicite:2]{index=2}
+
+Why choose us?
+- Reliable, in-house team delivering quality with accountability.
+- Trusted by clients across industries thanks to our technical expertise and on-time delivery. :contentReference[oaicite:3]{index=3}
+
+Tech stack highlights: PHP, Node.js, Python, React, MongoDB, AWS, Elasticsearch, Flutter, WordPress, Magento, Redis. :contentReference[oaicite:4]{index=4}
+
+=== Services Overview ===
+We partner with businesses to build digital experiences that drive results. Our services include AI automation, web & mobile development, e-commerce, digital marketing, and tech consulting. :contentReference[oaicite:5]{index=5}
+
+Our process:
+1. Understand your needs
+2. Strategic planning
+3. Design & development
+4. Rigorous testing
+5. Launch & support :contentReference[oaicite:6]{index=6}
+
+=== AI Automation Solutions ===
+We design AI systems for businesses in healthcare, finance, education, tourism, retail, manufacturing, enterprise & more. Use cases include chatbots, workflow automation, business process optimization—saving 20+ hours per week and delivering measurable ROI. :contentReference[oaicite:7]{index=7}
+
+Implementation framework:
+- Discovery & assessment (Weeks 1–2)
+- Strategy & planning (Weeks 3–4)
+- Development (Weeks 5–12)
+- Deployment (Weeks 13–16)
+- Continuous evolution (Ongoing) :contentReference[oaicite:8]{index=8}
+
+Industries served: Banking & finance, healthcare, education, manufacturing, media, retail, events & tourism, consulting, and more. :contentReference[oaicite:9]{index=9}
+
+Success examples:
+- Healthcare: automated patient scheduling & follow-ups — 65% time saved, 92% patient satisfaction.
+- E-commerce: smart inventory & order processing — 80% faster fulfillment, 99% order accuracy.
+- Financial: auto document processing — approvals in hours instead of days. 75% faster, 98% accuracy. :contentReference[oaicite:10]{index=10}
+
+Client testimonial: “Doubled our leads in 2 months.” — Dr. Aseem Gokarn, BNI. :contentReference[oaicite:11]{index=11}
+
+=== Professional Website Design & Development ===
+We create stunning, fast-loading websites that convert visitors to customers. Built with modern tech and AI-powered features. Mobile-first, SEO-optimised, easy to manage. :contentReference[oaicite:12]{index=12}
+
+Development process:
+- Discovery (Days 1–3)
+- Design (Days 4–10)
+- Development (Days 11–25)
+- Testing (Days 26–30)
+- Launch + support (Day 30+) :contentReference[oaicite:13]{index=13}
+
+Technologies & features: AI chatbots, smart analytics, payment integration, CMS, performance optimisation, security, and mobile responsiveness. :contentReference[oaicite:14]{index=14}
+
+Highlighted outcomes:
+- Marketing agency: 300% more leads via modern responsive website.
+- E-commerce business: 85% conversion rate boost with AI recommendations.
+- Restaurant chain: 500% increase in online orders during peak periods. :contentReference[oaicite:15]{index=15}
+
+=== Tech Consultancy & Strategy ===
+We help with digital strategy, CTO-as-a-Service, cloud migration, AI/ML readiness, SaaS enablement, legacy system upgrades, product roadmapping, and tech due diligence. :contentReference[oaicite:16]{index=16}
+
+Consulting process:
+- Discovery and audit
+- Roadmap design
+- Implementation support
+- Ongoing collaboration and support :contentReference[oaicite:17]{index=17}
+
+Trusted by clients like AGH Design and FP Academy for helping with scalable digital transformation. :contentReference[oaicite:18]{index=18}
+
+=== AI Automation Guide & Use Cases ===
+Our AI Automation Guide breaks down use cases like lead generation, customer service automation, content generation, document processing, HR workflow, supply chain optimisation, manufacturing QC, and compliance monitoring. Designed to help marketers and business leaders drive growth. :contentReference[oaicite:19]{index=19}
+
+Strategies include marketing automation (SEO, content, automation), analytics, personalization, and workflow automation—with typical ROI of 500%. :contentReference[oaicite:20]{index=20}
+
+=== FAQs ===
+What industries do you serve?
+Healthcare, finance, e-commerce, manufacturing, education, real estate, and professional services. We automate workflows like lead follow-ups, booking, HR, reporting, and more. :contentReference[oaicite:21]{index=21}
+
+How soon can we see ROI?
+Clients typically see return within 3–6 months with 40–70% reduction in manual work and near-perfect accuracy. :contentReference[oaicite:22]{index=22}
+
+Is ongoing support provided?
+Yes — training, performance monitoring, optimization, and 24/7 support are included. :contentReference[oaicite:23]{index=23}
+
+Data security?
+Enterprise-level protections including encryption, access control, and compliance with GDPR/CCPA. :contentReference[oaicite:24]{index=24}
+
+=== Contact & Next Steps ===
+Ready to transform your business? Book a free consultation or download our automation guide. Email: hello@ekaivakriti.com. :contentReference[oaicite:25]{index=25}
