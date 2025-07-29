@@ -1,21 +1,23 @@
 
-# AI Content Generation Platform
+# RAG-Based Intelligent Q&A & Content Platform
 
-A professional-grade web application that leverages advanced language models to automatically generate essays and poems. Built with FastAPI, Streamlit, and LangChain for scalable AI-powered content creation.
+An AI platform that combines multi-source knowledge retrieval with LLM-powered content generation. Acts as an intelligent assistant capable of answering questions, retrieving accurate information from diverse data sources, and generating context-aware content.
 
-**Key Technologies:** FastAPI • Streamlit • LangChain • OpenAI GPT-3.5 • Ollama Llama2
+Built with FastAPI for APIs, Streamlit for UI, and LangChain for managing advanced LLM workflows, featuring integrated RAG pipelines for document-aware interactions.
 
-**Use Cases:** Content creation, educational tools, writing assistance, AI experimentation
+Key Technologies: FastAPI • Streamlit • LangChain • OpenAI GPT-3.5 • Ollama Llama2 • Vector Databases
+
+Use Cases: Multi-source chatbots, document-based Q&A, enterprise knowledge assistants, AI-driven content generation, educational and research tools
 
 ## Features
 
-| Feature | Implementation | AI Model | Purpose |
-|---------|----------------|----------|---------|
-| **Essay Generator** | FastAPI `/essay/invoke` | OpenAI GPT-3.5-turbo | Customizable content creation |
-| **Poem Generator** | FastAPI `/poem/invoke` | Ollama Llama2 (local) | Audience-targeted poetry |
-| **Web Interface** | Streamlit UI | Both models | User-friendly testing |
-| **RAG Pipeline** | Jupyter notebooks | Vector databases | Document-based Q&A |
-| **AI Agents** | Multi-source agents | Wikipedia + custom data | Intelligent information retrieval |
+| Feature                   | Implementation                   | Purpose                                                |
+| ------------------------- | -------------------------------- | ------------------------------------------------------ |
+| **LLM-based Chatbot**     | FastAPI APIs + Streamlit UI      | Conversational interface with contextual understanding |
+| **RAG Pipeline**          | Vector databases + LangChain     | Accurate document-based Q\&A with source context       |
+| **Multi-source Agents**   | Wikipedia + JSON/Text/Web/PDF    | Pulls information from multiple data sources           |
+| **Content Generation**    | LLM APIs (OpenAI, Llama2)        | Generates high-quality content and summaries           |
+| **Scalable Architecture** | FastAPI backend + modular design | Flexible for enterprise or product integration         |
 
 ![API Client Demo](screenshots/api-client-demo.png)
 *Professional web interface for generating essays and poems with AI*
